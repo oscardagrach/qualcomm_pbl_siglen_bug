@@ -164,6 +164,7 @@ Confirmed first-hand, by disassembling the boot ROMs:
 |---|---|
 | APQ8064 PBL | vulnerable |
 | APQ8084 PBL | vulnerable |
+| MSM8930 PBL | vulnerable |
 | MSM8974 PBL | vulnerable |
 
 A mask ROM is identical on every unit of that SoC forever, so "vulnerable" here
